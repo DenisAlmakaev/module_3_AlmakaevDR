@@ -1,0 +1,2 @@
+sudo logwatch --detail high --mailto denis.almakaev@gmail.com --range today --service vsftpd --service sshd --format text
+
